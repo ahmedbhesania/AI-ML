@@ -87,8 +87,8 @@ def display_statistics():
 data = []
 
 while True:
-    print("\nWelcome to the Data Analyzer and Transformer Program")
-    print("\nMain Menu:")
+    print("Welcome to the Data Analyzer and Transformer Program")
+    print("Main Menu:")
     print("1. Input Data")
     print("2. Display Data Summary (Built-in Functions)")
     print("3. Calculate Factorial (Recursion)")
@@ -116,3 +116,4 @@ while True:
         break
     else:
         print("Invalid choice! Please try again.")
+
